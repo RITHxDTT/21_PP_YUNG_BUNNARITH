@@ -1,6 +1,0 @@
-#!/Users/user/Documents/HrdCenter/Advance-course/AI/homework/Build_Baseline_RAG/.venv/bin/python
-import sys
-from humanfriendly.cli import main
-if __name__ == '__main__':
-    sys.argv[0] = sys.argv[0].removesuffix('.exe')
-    sys.exit(main())

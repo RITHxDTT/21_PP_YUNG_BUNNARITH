@@ -7,7 +7,7 @@ This project is a simple Naive RAG application that answers questions based on t
 ### Clone the Project
 
 ```bash
-git clone <your-repository-url>
+git clone 
 cd Build_Baseline_RAG
 ```
 

@@ -81,15 +81,13 @@ exit
 
 ### Embedding Model
 
-I use `nomic-embed-text` for creating embeddings.
-
-I chose this model because it is designed for text embedding and can run locally with Ollama. The same embedding model is used for document chunks and user questions.
+ using `nomic-embed-text` for creating embeddings.
 
 ### Generation Model
 
-I use `llama3.2:3b` for generating the final answer.
+ `llama3.2:3b` for generating the final answer.
 
-I chose this model because it can run locally on my machine and it is enough for this simple Naive RAG application.
+chosing this model because it can run locally on my machine and it is enough for this simple Naive RAG application.
 
 ## 3. Chunking Rationale
 

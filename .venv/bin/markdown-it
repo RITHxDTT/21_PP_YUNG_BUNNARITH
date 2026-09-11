@@ -1,4 +1,4 @@
-#!/Users/user/Documents/HrdCenter/Advance-course/AI/homework/week5/.venv/bin/python
+#!/Users/user/Documents/HrdCenter/Advance-course/AI/homework/Build_Baseline_RAG/.venv/bin/python
 import sys
 from markdown_it.cli.parse import main
 if __name__ == '__main__':
